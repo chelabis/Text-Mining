@@ -1,12 +1,7 @@
 Reminders
 
-1- Apply: 
+1- Task1: Do something for this task.
 
-2- Learning: youtube projects, sharif NN
+2- Task2: Finish this before deadline!
 
-3- findjob: Update CV(95%) remain = (adjust About, Projects, ..),
-            Active in Linkedin
-
-
-0.5h
-11:30
+3- Task3: Make some changes in this project..
