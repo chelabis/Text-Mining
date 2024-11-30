@@ -3,3 +3,6 @@
 
 ### Part 1 - Text mining introduction
 #### Handle text file, Regular expressions, Dates
+
+### Part 3 - Text mining Basic
+#### Normalization, stemming, and tokenization
