@@ -6,3 +6,6 @@
 
 ### Part 3 - Text mining Basic
 #### Normalization, stemming, and tokenization
+
+### Part 4 - Text mining advance
+#### Download dataset from kaggle
