@@ -4,8 +4,9 @@
 ### Part 1 - Text mining introduction
 #### Handle text file, Regular expressions, Dates
 
-### Part 3 - Text mining Basic
+### Part 2 - Text mining Basic
 #### Normalization, stemming, and tokenization
 
-### Part 4 - Text mining advance
+### Part 3 - Text mining advance
+#### Sentiment Analysis project with Amazon_Unlocked_Mobile dataset
 #### Download dataset from kaggle
